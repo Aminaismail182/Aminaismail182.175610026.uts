@@ -1,7 +1,8 @@
 Nama : siti mu'minah
 nim  : 175610026
 --------------------
-LATIHAN (rangkuman)
+PRAKTIKUM TEKNOLOGI CLOUD COMPUTING MINGGU KE 2
+LATIHAN (rangkuman) PERBEDAAN SAAS, IAAS, PAAS
 
 SaaS:Software as a Service(Perangkat Lunak sebagai Layanan)
 Ini berarti menjalankan aplikasi di cloud publik. 
