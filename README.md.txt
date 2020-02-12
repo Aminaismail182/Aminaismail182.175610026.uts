@@ -1,1 +1,0 @@
-perubahan 14:09
