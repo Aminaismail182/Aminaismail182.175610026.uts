@@ -83,7 +83,9 @@ komitmen sumber daya dimuka.
 
 Integrasi dapat direncanakan dan dilaksanakan dengan upaya minimal, menciptakan salah satu interval 
 waktu-ke-nilai sesingkat mungkin untuk investasi TI utama. Ini juga memungkinkan sejumlah vendor SaaS 
-untuk menawarkan "test drive" bebas risiko (dan seringkali secara harfiah gratis) dari perangkat lunak mereka untuk periode terbatas, seperti 30 hari. Memberi pelanggan kesempatan untuk mencoba perangkat lunak sebelum mereka membelinya membantu menghilangkan banyak risiko seputar pembelian perangkat lunak.
+untuk menawarkan "test drive" bebas risiko (dan seringkali secara harfiah gratis) dari perangkat lunak mereka 
+untuk periode terbatas, seperti 30 hari. Memberi pelanggan kesempatan untuk mencoba perangkat lunak sebelum mereka membelinya
+membantu menghilangkan banyak risiko seputar pembelian perangkat lunak.
 
 How SaaS Affects IT ?
 Setelah Anda membuat keputusan untuk mengejar SaaS, selanjutnya adalah mempersiapkan transisi dengan 
